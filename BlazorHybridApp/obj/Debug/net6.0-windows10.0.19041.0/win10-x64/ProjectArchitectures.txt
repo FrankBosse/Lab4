@@ -1,0 +1,1 @@
+C:\Users\teasw\Source\Repos\Lab4\BlazorHybridApp\BlazorHybridApp.csproj;x64
